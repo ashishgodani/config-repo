@@ -1,0 +1,7 @@
+schema:
+  name: product
+  version: 1.0
+  type: JSON
+route:
+  sucess: invavl_success_topic
+  error: invavl_success_topic
