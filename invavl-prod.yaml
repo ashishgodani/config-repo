@@ -2,7 +2,7 @@ schema:
   name: product
   version: 1.0
   type: JSON
-  group: product
+  group: inventory
 route:
   success: dataeng/product/topics/invavl
   error: dataeng/product/topics/error

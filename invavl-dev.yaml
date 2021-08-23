@@ -2,7 +2,7 @@ schema:
   name: product
   version: 1.0
   type: JSON
-  group: product
+  group: inventory
 route:
   success: product-availability
   error: product-availability-error
