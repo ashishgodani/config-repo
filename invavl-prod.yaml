@@ -5,4 +5,4 @@ schema:
   group: inventory
 route:
   success: dataeng/product/topics/invavl
-  error: dataeng/shared/topics/error
+  error: dataeng/product/topics/error
