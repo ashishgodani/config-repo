@@ -1,0 +1,8 @@
+schema:
+  name: get_availability_status
+  version: 1
+  type: JSON
+  group: avl
+route:
+  success: get_availability_status
+  error: get_availability_status_err
