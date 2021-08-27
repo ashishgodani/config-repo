@@ -4,5 +4,5 @@ schema:
   type: JSON
   group: inventory
 route:
-  success: product-availability
-  error: product-availability-error
+  success: projects/dataflow-spike/topics/product-availability
+  error: projects/dataflow-spike/topics/product-availability-error

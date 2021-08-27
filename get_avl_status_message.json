@@ -1,0 +1,22 @@
+{
+  "data": {
+    "dateReceived":"2021-07-26",
+    "timeReceived":"2021-07-26T19:08:21.162986+00:00",
+    "timeZoneReceived":"GMT",
+    "dateReturned":"2021-07-26",
+    "timeReturned":"2021-07-26T19:08:21.404732+00:00",
+    "timeZoneReturned":"GMT",
+    "input":{
+      "zoroNo":"G1234567",
+      "quantity":1,
+      "can_back_order":true
+    },
+    "output":{
+      "availability_status":"Out Of Stock",
+      "is_cartable": true
+    }
+  },
+  "attributes": {
+    "path": "get_availability_status/v1"
+  }
+}

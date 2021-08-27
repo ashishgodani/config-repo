@@ -4,5 +4,5 @@ schema:
   type: JSON
   group: avl
 route:
-  success: get_availability_status
-  error: get_availability_status_err
+  success: projects/dataflow-spike/topics/get_availability_status
+  error: projects/dataflow-spike/topics/get_availability_status_err
