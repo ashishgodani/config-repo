@@ -1,0 +1,8 @@
+schema:
+  name: get_availability_status
+  version: 2
+  type: JSON
+  group: avl
+route:
+  success: projects/zoro-pipeline-demo/topics/get_availability_status
+  error: projects/zoro-pipeline-demo/topics/get_availability_status_err
