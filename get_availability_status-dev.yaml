@@ -1,6 +1,6 @@
 schema:
   name: get_availability_status
-  version: 1
+  version: 2
   type: JSON
   group: avl
 route:
