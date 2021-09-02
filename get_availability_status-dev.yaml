@@ -1,8 +1,8 @@
 schema:
   name: get_availability_status
-  version: 2
+  version: 1
   type: JSON
   group: avl
 route:
-  success: projects/dataflow-spike/topics/get_availability_status
-  error: projects/dataflow-spike/topics/get_availability_status_err
+  success: projects/zdp-event-processing-dev/topics/get_availability_status
+  error: projects/zdp-event-processing-dev/topics/get_availability_status_err
