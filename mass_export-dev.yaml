@@ -1,0 +1,8 @@
+schema:
+  name: mass_export
+  version: 1
+  type: JSON
+  group: avl
+route:
+  success: projects/zdp-event-processing-dev/topics/mass_export
+  error: projects/zdp-event-processing-dev/topics/mass_export_err
