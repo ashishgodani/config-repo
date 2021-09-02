@@ -1,0 +1,8 @@
+schema:
+  name: get_inventory_unilateral
+  version: 1
+  type: JSON
+  group: avl
+route:
+  success: projects/zdp-event-processing-dev/topics/get_inventory_unilateral
+  error: projects/zdp-event-processing-dev/topics/get_inventory_unilateral_err
